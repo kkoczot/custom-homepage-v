@@ -1,0 +1,15 @@
+{
+    "manifest_version": 3,
+    "version": "1.0",
+    "name": "V",
+    "description": "V because this homepage can be eVerything!",
+    "action": {
+        "default_icon": "v.png"
+    },
+    "permissions": [
+        "history"
+    ],
+    "chrome_url_overrides": {
+        "newtab": "index.html"
+    }
+}
