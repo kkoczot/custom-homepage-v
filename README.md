@@ -24,7 +24,16 @@ Contains elements such as:
    -  ability to show/hide left and right columns
    -  the ability to choose own background for both themes with delicate styling
 
-Additionally, the website is responsive and contains elements that respond to mouse hover.
+Additionally, the homepage extension is responsive and contains elements that respond to mouse hover.
+
+### Installation of this extension:
+1. Donwload the folder *dist*
+2. Enter  *chrome://extensions/* in the URL bar
+3. Turn on *developer mode*
+4. Press the button *Load inpacked* and choose this donwloaded folder
+5. Enjoy your new and better homepage
+
+*The error appearing with this extension is the result of sending a query about cryptocurrencies and you should not worry about it*
 
 ## Polski
 
@@ -48,4 +57,14 @@ Zawiera takie elementy jak:
    - możliwość pokazania/ukrycia kolumny lewej i prawej
    - możliwość wyboru własnego tła dla obu motywów wraz z delikatną stylizacją
 
-Dodatkowo wintryna jest responsywna i zawiera elementy reagujące na najechanie myszą.
+Dodatkowo rozszerzenie jest responsywne i zawiera elementy reagujące na najechanie myszą.
+
+### Instalacja rozszerzenia:
+
+1. Pobrać folder *dist*
+2. Wpisać w URL: *chrome://extensions/*
+3. Włączyć *tryb dewelopera*
+4. Kliknąć przycisk *załaduj rozszerzenie* i wybrać pobrany folder
+5. Cieszyć się stroną domową nowej jakości
+
+*Pojawiający się błąd przy tym rozszerzeniu jest wynikiem wysyłania zapytania o kryptowaluty i nie należy się nim przejmować*
