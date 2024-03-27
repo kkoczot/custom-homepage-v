@@ -6,7 +6,7 @@ Visit <a href="https://custom-homepage-v.netlify.app/" target="_blank">Netlify</
 
 ### This project is made using *react* and *vite* technologies.
 
-It shows the author's programming skills.
+It shows my programming skills.
 Contains elements such as:
 
  - light/dark theme automatically selected based on user preferences and can be changed
@@ -39,7 +39,7 @@ Additionally, the homepage extension is responsive and contains elements that re
 
 ### Projekt wykonany za pomocą technologii *react* oraz *vite*.
 
-Pokazuje on umiejętności programistyczne autora.
+Pokazuje on moje umiejętności programistyczne.
 Zawiera takie elementy jak:
 
  - jasny/ciemny motyw automatycznie wybierany na podstawie preferencji użytkownika z możliwością zmiany
